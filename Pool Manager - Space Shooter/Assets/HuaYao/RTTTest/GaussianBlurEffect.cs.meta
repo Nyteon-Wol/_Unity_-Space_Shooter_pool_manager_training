@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 08cb997cd86cbd44384d871c58c4e335
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlurShader: {fileID: 4800000, guid: 8c3a1a4af217303479a4d99adc8b1935, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51316
+  packageName: Dream Word Fairies
+  packageVersion: 1.0
+  assetPath: Assets/HuaYao/RTTTest/GaussianBlurEffect.cs
+  uploadId: 236225

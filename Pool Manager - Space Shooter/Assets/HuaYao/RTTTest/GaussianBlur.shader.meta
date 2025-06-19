@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c3a1a4af217303479a4d99adc8b1935
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51316
+  packageName: Dream Word Fairies
+  packageVersion: 1.0
+  assetPath: Assets/HuaYao/RTTTest/GaussianBlur.shader
+  uploadId: 236225

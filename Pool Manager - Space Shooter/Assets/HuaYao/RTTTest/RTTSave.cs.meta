@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 466838e108640454c93ad64f1fd2e014
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51316
+  packageName: Dream Word Fairies
+  packageVersion: 1.0
+  assetPath: Assets/HuaYao/RTTTest/RTTSave.cs
+  uploadId: 236225
